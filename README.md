@@ -1,2 +1,2 @@
 # TinDog
-Awebsite based purely on Bootstrap
+A website based purely on Bootstrap
